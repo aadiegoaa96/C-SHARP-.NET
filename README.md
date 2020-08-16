@@ -25,7 +25,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 * ZEDGRAPH LIBRARY
 
 ### Instalación 🔧
-_ARDUINO IDE:_
+
 * https://www.arduino.cc/en/main/OldSoftwareReleases 
 * https://visualstudio.microsoft.com/es/vs/
 
