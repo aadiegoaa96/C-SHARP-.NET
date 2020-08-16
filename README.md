@@ -23,11 +23,13 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 * C# LANGUAGE
 * VISUAL STUDIO .NET FRAMEWORK
 * ZEDGRAPH LIBRARY
+* PROTEUS DESIGN SUITE
 
 ### Instalación 🔧
 
 * https://www.arduino.cc/en/main/OldSoftwareReleases 
 * https://visualstudio.microsoft.com/es/vs/
+* https://www.labcenter.com/pcb/
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
