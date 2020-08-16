@@ -19,27 +19,20 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
-### Arduino IDE
-### C# LANGUAGE
-### VISUAL STUDIO .NET FRAMEWORK
-### ZEDGRAPH LIBRARY
+* Arduino IDE
+* C# LANGUAGE
+* VISUAL STUDIO .NET FRAMEWORK
+* ZEDGRAPH LIBRARY
 
 ### Instalación 🔧
 _ARDUINO IDE:_
 https://www.arduino.cc/en/main/OldSoftwareReleases 
-
+https://visualstudio.microsoft.com/es/vs/
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [ZedGraph](http://www.dropwizard.io/1.0.2/docs/) - This framework provides real-time Graphics for rendering Preasure and Temperature
 
-## Contribuyendo 🖇️
-
-## Wiki 📖
-
-## Versionado 📌
 ## Autores ✒️
 
 * **Diego Bermúdez**
