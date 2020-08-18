@@ -24,7 +24,7 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 
 
-*REAL TIME REACTION
+* REAL TIME REACTION
 
 
 
