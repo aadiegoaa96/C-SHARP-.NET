@@ -23,12 +23,22 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 
 
-* SOFTWARE IN C# .NET FOR DATA-ADQUISITION
+
+*REAL TIME REACTION
 
 
 
 
 ![PRUEBA-AL-SISTEMA-EN-TIEMPO-REAL-CON-ENCENDEDOR mp4 (1)](https://user-images.githubusercontent.com/22797982/90477599-4c4bd600-e0f1-11ea-853b-565ccce28888.gif)
+
+
+
+
+
+
+
+* SOFTWARE IN C# .NET FOR DATA-ADQUISITION
+
 
 
 
